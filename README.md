@@ -72,5 +72,5 @@ Modern data-driven systems require selecting the right algorithm for the right p
 - Matplotlib
 
 ## Practical Relevance
-This project reflects real-world machine learning workflows used in analytics, business intelligence, and predictive modeling roles. It demonstrates the ability to select, implement, and evaluate machine learning algorithms with a strong emphasis on interpretability, correctness, and practical decision-making.
+This project reflects real-world machine learning workflows used in analytics, business intelligence, and predictive modeling roles. It demonstrates the ability to select, implement, and evaluate machine learning algorithms with a strong emphasis on interpretability, correctness, and practical decision making.
 This project reflects real-world machine learning workflows used in analytics, business intelligence, and predictive modeling roles. It demonstrates the ability to select, implement, and evaluate machine learning algorithms with a strong emphasis on interpretability, correctness, and practical decision-making.
